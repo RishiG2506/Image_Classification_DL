@@ -1,0 +1,4 @@
+.DS_Store
+
+# Model/weight files
+*.pth
